@@ -1,18 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Eyüp Kerem Baş 👋</h1>
 
-<!--
-**EyupKeremBas7/EyupKeremBas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Exploring AI, Deep Learning, and Software Engineering to Build the Future</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EyupKeremBas7&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkerembas" />
+   <img src="https://wakatime.com/badge/user/6fb8fbb7-8067-4abc-9be8-642f753b3825.svg" alt="eyupkerembas" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![wakatime](https://wakatime.com/badge/user/6fb8fbb7-8067-4abc-9be8-642f753b3825.svg)](https://wakatime.com/@6fb8fbb7-8067-4abc-9be8-642f753b3825)
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm a 2nd-year Student at Karadeniz Technical University.
+- 💻 I'm currently working as an **AI Trainer** at Outlier.
+- 📫 How to reach me: **baseyupkerem@gmail.com**
+
+---
+
+### 🧠 Technical Skills
+
+**Languages:**  
+`Python` `C#` `C/C++` `JavaScript` `SQL` `Java`
+
+**AI / ML Stack:**  
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Keras`
+
+**Web & Backend:**  
+`ASP.NET Core` `Entity Framework` `Flask` `HTML` `CSS` `JavaScript`
+
+**Databases:**  
+`SQL Server` `SQLite`
+
+**Tools:**  
+`Git` `GitHub` `Jupyter Notebook` `Visual Studio` `VS Code`
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:baseyupkerem@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eyup-kerem-bas-a83976295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@baseyupkerem"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/eypkeremba"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EyupKeremBas7&show_icons=true&theme=white" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EyupKeremBas7&theme=white" width="48%"/>
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+> I love solving real-world problems with code, and I'm always curious about what’s next in AI!
+
