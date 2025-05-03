@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EyupKeremBas7&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkerembas" />
-   <img src="https://wakatime.com/badge/user/6fb8fbb7-8067-4abc-9be8-642f753b3825.svg" alt="eyupkerembas" />
+   <a href="https://wakatime.com/@6fb8fbb7-8067-4abc-9be8-642f753b3825"><img src="https://wakatime.com/badge/user/6fb8fbb7-8067-4abc-9be8-642f753b3825.svg" alt="Total time coded since Apr 21 2025" /></a>
 </p>
 
 
