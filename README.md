@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 2nd-year Student at Karadeniz Technical University.
+- 🎓 I'm a 3rd-year Student at Karadeniz Technical University.
 - 📫 How to reach me: **baseyupkerem@gmail.com**
 
 ---
