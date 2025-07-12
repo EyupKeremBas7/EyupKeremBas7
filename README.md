@@ -18,7 +18,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a 2nd-year Student at Karadeniz Technical University.
-- 💻 I'm currently working as an **AI Trainer** at Outlier.
 - 📫 How to reach me: **baseyupkerem@gmail.com**
 
 ---
