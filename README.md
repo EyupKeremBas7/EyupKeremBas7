@@ -52,11 +52,7 @@
 
 ### 🛠️ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyupKeremBas7&show_icons=true&theme=light" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=EyupKeremBas7&theme=light" width="48%"/>
-</p>
-
+![EyupKeremBas7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupKeremBas7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### 🧩 Fun Fact
