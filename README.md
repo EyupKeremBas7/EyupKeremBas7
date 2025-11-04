@@ -53,8 +53,8 @@
 ### 🛠️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyupKeremBas7&show_icons=true&theme=white" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EyupKeremBas7&theme=white" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EyupKeremBas7&show_icons=true&theme=light" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=EyupKeremBas7&theme=light" width="48%"/>
 </p>
 
 ---
