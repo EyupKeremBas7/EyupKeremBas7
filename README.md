@@ -1,62 +1,48 @@
-<h1 align="center">Hi there, I'm Eyüp Kerem Baş 👋</h1>
-
+<h1 align="center">Hi, I'm Eyüp Kerem Baş</h1>
 <p align="center">
-  <i>Exploring AI, Deep Learning, and Software Engineering to Build the Future</i>
+  <i>HEP Software Foundation Contributor · Systems Programming · C++, Python, Linux</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EyupKeremBas7&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkerembas" />
-  <a href="https://wakatime.com/@6fb8fbb7-8067-4abc-9be8-642f753b3825">
-    <img src="https://wakatime.com/badge/user/6fb8fbb7-8067-4abc-9be8-642f753b3825.svg" alt="Total time coded since Apr 21 2025" />
-  </a>
-</p>
+### About Me
 
-
+- 3rd-year Software Engineering student at Karadeniz Technical University
+- Open-source contributor to [HSF/prmon](https://github.com/HSF/prmon) — GPU monitoring infrastructure for HEP computing
+- Cyber Security Intern at Perapole — Wazuh, OpenVAS, log management
+- Former Computer Vision Intern at DigiNova — Jetson Nano, RealSense, gRPC, Docker
+- **baseyupkerem@gmail.com**
 
 ---
 
-### 👨‍💻 About Me
+### Technical Skills
 
-- 🎓 I'm a 3rd-year Student at Karadeniz Technical University.
-- 📫 How to reach me: **baseyupkerem@gmail.com**
+**Languages:**
+`C` `C++` `Python` `JavaScript` `SQL` `Bash`
+
+**AI / ML:**
+`PyTorch` `TensorFlow` `Keras` `OpenCV` `NumPy`
+
+**Backend & DevOps:**
+`FastAPI` `React.js` `Docker` `Traefik` `Redis` `Celery` `SQLAlchemy` `Pydantic`
+
+**Systems & Security:**
+`Linux` `Wazuh` `OpenVAS` `NVML C-API` `dlopen` `gRPC`
+
+**Tools:**
+`Git` `Postman` `VS Code`
 
 ---
 
-### 🧠 Technical Skills
-
-**Languages:**  
-`Python` `C#` `C/C++` `JavaScript` `SQL` `Java`
-
-**AI / ML Stack:**  
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Keras`
-
-**Web & Backend:**  
-`ASP.NET Core` `Entity Framework` `Flask` `HTML` `CSS` `JavaScript`
-
-**Databases:**  
-`SQL Server` `SQLite`
-
-**Tools:**  
-`Git` `GitHub` `Jupyter Notebook` `Visual Studio` `VS Code`
-
-### 📬 Connect With Me
+### Connect
 
 <p align="left">
   <a href="mailto:baseyupkerem@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eyup-kerem-bas-a83976295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@baseyupkerem"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/eypkeremba"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ GitHub Stats
+### GitHub Stats
 
-![EyupKeremBas7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupKeremBas7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
----
-![EyupKeremBas7's Stats](https://github-readme-stats.vercel.app/api?username=EyupKeremBas7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupKeremBas7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### 🧩 Fun Fact
-
-> I love solving real-world problems with code, and I'm always curious about what’s next in AI!
-
+![Stats](https://github-readme-stats.vercel.app/api?username=EyupKeremBas7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
