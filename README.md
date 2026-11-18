@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 4rd-year Software Engineering student at Karadeniz Technical University
+- 4th-year Software Engineering student at Karadeniz Technical University
 - Open-source contributor to [HSF/prmon](https://github.com/HSF/prmon) — refactored GPU metric collection infrastructure using Dispatcher pattern and dynamic NVML loading via `dlopen` ([PR #297](https://github.com/HSF/prmon/pull/297))
 - Intern at HAVELSAN QA Automation and Test Tool Development Team 
 - Former Cybersecurity Intern at Perapole — Wazuh, OpenVAS, log management, CI/CD
